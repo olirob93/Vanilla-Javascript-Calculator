@@ -2,9 +2,6 @@
 const display = document.querySelector('.display');
 
 
-// operators
-
-
 //buttons
 const buttons = document.querySelectorAll('button');
 
